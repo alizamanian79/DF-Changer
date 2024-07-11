@@ -3,7 +3,7 @@ Certainly! Here's a sample README.md file for your Python script, along with ste
 ### README.md
 
 #### Description
-This Python script (`replace_definer_and_export.py`) allows you to replace a specified definer in an SQL file and export the modified content to another file. It's useful for modifying SQL files where the definer needs to be changed, such as during database migrations or deployments.
+DF-Changer.py streamlines SQL file updates by replacing specified definers and exporting modified content. Designed for database procedures and functions, it facilitates seamless alterations during migrations or deployments, commonly replacing 'DEFINER=root@localhost' with user-specific details or any specified configuration.
 
 #### How to Use
 1. **Clone the Repository**
