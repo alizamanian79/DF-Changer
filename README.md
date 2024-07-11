@@ -55,10 +55,10 @@ Successfully replaced 'DEFINER=root@localhost' with 'DEFINER=admin@localhost' an
 - This script uses standard Python libraries (`os` and `open`), so no additional installations are required beyond Python itself.
 
 #### Author
-- Your Name
+- Ali Zamanian
 
 #### License
-- Specify your preferred license here.
+- No License.
 
 ---
 
