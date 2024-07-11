@@ -27,7 +27,7 @@ This Python script (`replace_definer_and_export.py`) allows you to replace a spe
 4. **Follow the Prompts**
    - You will be prompted to enter:
      - Full path to the input SQL file (`input_file_path`).
-     - Full path to the export SQL file (`output_file_path`).
+     - Full path to the output SQL file (`output_file_path`).
      - Old definer string (`old_definer`) to replace.
      - New definer string (`new_definer`) to replace with.
 
@@ -44,7 +44,7 @@ Here’s an example of how to use the script:
 
 ```
 Enter the full path to the input SQL file: /path/to/input_file.sql
-Enter the full path to the export SQL file: /path/to/output_file.sql
+Enter the full path to the output SQL file: /path/to/output_file.sql
 Old Definer: 'DEFINER=root@localhost'
 New Definer: 'DEFINER=admin@localhost'
 Successfully replaced 'DEFINER=root@localhost' with 'DEFINER=admin@localhost' and saved to '/path/to/output_file.sql'.
