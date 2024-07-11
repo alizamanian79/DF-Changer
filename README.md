@@ -1,4 +1,3 @@
-Certainly! Here's a sample README.md file for your Python script, along with step-by-step instructions on how it works:
 
 ### README.md
 
@@ -59,7 +58,3 @@ Successfully replaced 'DEFINER=root@localhost' with 'DEFINER=admin@localhost' an
 
 #### License
 - No License.
-
----
-
-This README.md file provides clear instructions for users to understand how to use your script effectively and sets expectations for what it does and how it behaves. Adjust the paths and details as per your actual script and preferences.
